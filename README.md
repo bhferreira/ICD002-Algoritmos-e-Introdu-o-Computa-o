@@ -1,2 +1,2 @@
-# ICD002-Algoritmos-e-Introdu-o-Computa-o
-COntenas atividades da diciplina
+# ICD002-Algoritmos-e-Introducão-Computcão
+Conteudos das atividades da diciplina
